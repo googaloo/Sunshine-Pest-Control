@@ -1,0 +1,496 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new_",
+				"new_clean"
+			],
+			[
+				"bigg",
+				"biggest_num"
+			],
+			[
+				"existing",
+				"existing_story"
+			],
+			[
+				"last",
+				"last_char"
+			],
+			[
+				"exisi",
+				"existingStories"
+			],
+			[
+				"JSON",
+				"json_encode"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 544.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/Storybook/app/controllers/UserController.php",
+		"/var/www/Storybook/app/models/User.php",
+		"/var/www/Storybook/app/views/stories/story-things.blade.php",
+		"/var/www/Storybook/app/views/stories.blade.php",
+		"/var/www/Storybook/app/libraries/Writer.php",
+		"/var/www/Storybook/app/config/workbench.php",
+		"/var/www/Storybook/app/views/user/settings.blade.php",
+		"/var/www/Storybook/app/start/global.php",
+		"/var/www/Storybook/composer.json",
+		"/var/www/Storybook/app/models/Thing.php",
+		"/var/www/Storybook/app/models/Story.php",
+		"/var/www/Storybook/app/controllers/WriteController.php",
+		"/var/www/Storybook/app/views/user/profile.blade.php",
+		"/var/www/Storybook/app/routes.php",
+		"/var/www/Storybook/app/views/layouts/master.blade.php",
+		"/var/www/Storybook/app/views/layouts/masthead.blade.php",
+		"/var/www/Storybook/app/controllers/StoriesController.php",
+		"/var/www/Storybook/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/Handler/WriteCheckSessionHandlerTest.php",
+		"/var/www/Storybook/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/Handler/WriteCheckSessionHandler.php",
+		"/var/www/Storybook/node_modules/grunt/node_modules/glob/.travis.yml",
+		"/var/www/Storybook/vendor/monolog/monolog/tests/Monolog/Handler/GelfHandlerLegacyTest.php",
+		"/var/www/Storybook/gruntfile.js",
+		"/var/www/Storybook/.gitignore",
+		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Workbench/stubs/gitignore.txt",
+		"/var/www/Storybook/vendor/ircmaxell/password-compat/test/Unit/PasswordGetInfoTest.php",
+		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Remote/GatewayInterface.php",
+		"/var/www/Storybook/node_modules/grunt-contrib-jshint/node_modules/jshint/data/non-ascii-identifier-part-only.js",
+		"/var/www/Storybook/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/htmlparser2/test/Events/14-implicit-open-tags.json",
+		"/var/www/Storybook/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/htmlparser2/node_modules/domhandler/test/cases/14-comment_in_text_in_script.json",
+		"/var/www/Storybook/CONTRIBUTING.md",
+		"/var/www/Storybook/app/controllers/ThingsController.php",
+		"/var/www/Storybook/vendor/monolog/monolog/src/Monolog/Handler/TestHandler.php",
+		"/var/www/Storybook/vendor/predis/predis/lib/Predis/ResponseObjectInterface.php",
+		"/var/www/Storybook/readme.md",
+		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Auth/UserInterface.php",
+		"/var/www/Storybook/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/UriSigner.php",
+		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Session/Store.php",
+		"/var/www/Storybook/vendor/predis/predis/tests/Predis/Command/HashSetTest.php",
+		"/var/www/Storybook/vendor/nesbot/carbon/tests/StartEndOfTest.php",
+		"/var/www/Storybook/node_modules/grunt-contrib-sass/docs/sass-examples.md",
+		"/var/www/Storybook/app/database/production.sqlite",
+		"/var/www/Storybook/node_modules/grunt/node_modules/glob/test/pause-resume.js",
+		"/var/www/Storybook/app/controllers/PeopleController.php",
+		"/var/www/Storybook/app/views/user/create.blade.php",
+		"/var/www/Storybook/app/config/auth.php",
+		"/var/www/Storybook/app/views/login.blade.php",
+		"/var/www/Storybook/public/assets/js/script.js",
+		"/home/rusty/Desktop/test.json",
+		"/var/www/Storybook/node_modules/grunt-contrib-sass/AUTHORS",
+		"/var/www/Storybook/bootstrap/autoload.php",
+		"/var/www/Storybook/vendor/symfony/routing/Symfony/Component/Routing/Matcher/ApacheUrlMatcher.php",
+		"/var/www/Storybook/artisan",
+		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Config/Repository.php",
+		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Cache/Repository.php",
+		"/var/www/Storybook/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/TooManyRequestsHttpException.php",
+		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Routing/Generators/stubs/destroy.stub",
+		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/View/Factory.php",
+		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Validation/Factory.php",
+		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Pagination/Factory.php",
+		"/var/www/Storybook/vendor/symfony/browser-kit/Symfony/Component/BrowserKit/Tests/HistoryTest.php",
+		"/var/www/Storybook/vendor/symfony/browser-kit/Symfony/Component/BrowserKit/History.php",
+		"/var/www/Storybook/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/qs/History.md",
+		"/var/www/Storybook/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/HISTORY.md",
+		"/var/www/Storybook/node_modules/grunt/node_modules/js-yaml/HISTORY.md",
+		"/var/www/Storybook/vendor/nesbot/carbon/history.md",
+		"/var/www/Storybook/app/views/stories/story-writing.blade.php",
+		"/var/www/Storybook/app/views/stories/story-places.blade.php",
+		"/var/www/Storybook/app/views/stories/story-people.blade.php",
+		"/var/www/Storybook/storybook.sublime-project",
+		"/var/www/Storybook/app/controllers/StatsController.php",
+		"/var/www/Storybook/app/views/layouts/login-form.blade.php",
+		"/var/www/Storybook/app/start/local.php",
+		"/var/www/Storybook/app/lang/en/validation.php",
+		"/var/www/Storybook/vendor/nikic/php-parser/lib/PHPParser/NodeVisitorAbstract.php",
+		"/var/www/Storybook/app/config/view.php",
+		"/var/www/Storybook/vendor/phpseclib/phpseclib/build/code-sniffer-ruleset.xml",
+		"/var/www/Storybook/app/controllers/SessionsController.php",
+		"/var/www/Storybook/app/views/people.blade.php",
+		"/var/www/Storybook/app/models/People.php",
+		"/var/www/Storybook/app/views/layouts/sortable.blade.php",
+		"/var/www/Storybook/public/assets/js/datepicker.js",
+		"/var/www/Storybook/public/assets/css/datepicker.css",
+		"/var/www/Storybook/app/views/layouts/head.blade.php",
+		"/var/www/Storybook/vendor/predis/predis/lib/Predis/PredisException.php",
+		"/var/www/Storybook/package.json",
+		"/var/www/Storybook/node_modules/grunt-contrib-sass/docs/sass-options.md",
+		"/var/www/Storybook/app/models/Person.php",
+		"/var/www/Storybook/vendor/nikic/php-parser/lib/PHPParser/Node/Expr/BitwiseOr.php",
+		"/var/www/Storybook/vendor/predis/predis/examples/TransactionWithCAS.php",
+		"/var/www/Storybook/public/assets/js/bootstrap-datepicker.js",
+		"/var/www/Storybook/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/IpUtilsTest.php",
+		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Foundation/Console/MigratePublishCommand.php",
+		"/var/www/Storybook/app/config/database.php",
+		"/var/www/Storybook/vendor/symfony/console/Symfony/Component/Console/Tests/Fixtures/definition_astext.txt",
+		"/var/www/Storybook/vendor/predis/predis/lib/Predis/Command/HashExists.php",
+		"/var/www/Storybook/app/views/home.blade.php",
+		"/var/www/Storybook/node_modules/grunt-contrib-jshint/node_modules/.bin/jshint",
+		"/var/www/Storybook/vendor/nikic/php-parser/lib/PHPParser/Node/Expr/LogicalOr.php",
+		"/var/www/Storybook/app/controllers/HomeController.php",
+		"/var/www/Storybook/bootstrap/start.php",
+		"/var/www/Storybook/phpunit.xml",
+		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php",
+		"/var/www/Storybook/vendor/predis/predis/lib/Predis/Protocol/ProtocolInterface.php",
+		"/var/www/Storybook/app/views/users-create.blade.php",
+		"/var/www/Storybook/app/views/user-create.blade.php",
+		"/var/www/Storybook/app/controllers/UsersController.php",
+		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Cache/StoreInterface.php",
+		"/var/www/Storybook/vendor/predis/predis/tests/Predis/Command/ServerTimeTest.php",
+		"/var/www/Storybook/vendor/predis/predis/lib/Predis/Command/StringBitOp.php",
+		"/var/www/Storybook/vendor/swiftmailer/swiftmailer/tests/StreamCollector.php",
+		"/var/www/Storybook/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/MockArraySessionStorage.php",
+		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Database/Eloquent/MassAssignmentException.php",
+		"/var/www/Storybook/app/config/mail.php",
+		"/var/www/Storybook/app/config/testing/session.php",
+		"/var/www/Storybook/app/config/session.php",
+		"/var/www/Storybook/vendor/predis/predis/lib/Predis/Command/ServerEvalSHA.php",
+		"/var/www/Storybook/vendor/predis/predis/lib/Predis/ServerException.php",
+		"/var/www/Storybook/server.php",
+		"/var/www/Storybook/vendor/nikic/php-parser/test/code/parser/stmt/haltCompilerInvalidSyntax.test-fail",
+		"/var/www/Storybook/vendor/nikic/php-parser/test/code/parser/expr/issetAndEmpty.test",
+		"/var/www/Storybook/app/views/hello.php",
+		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Foundation/start.php",
+		"/var/www/info.php",
+		"/etc/apache2/apache2.conf",
+		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Console/start.php",
+		"/etc/php5/apache2/php.ini"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"new_story",
+			"this",
+			"new",
+			"write",
+			"t1",
+			"biggest_num",
+			"char_to_trim",
+			"to_trim",
+			"user_story",
+			"trimmed_user_story",
+			"story_version_num",
+			"last_char",
+			"check_name",
+			"poop",
+			";\">",
+			",",
+			"'",
+			"is",
+			": ",
+			"')\n",
+			"),",
+			"JSON.stringify(",
+			"attr",
+			"),",
+			"$('.",
+			"val()",
+			":checked",
+			": ",
+			"auth_",
+			"endif",
+			"message",
+			"=>",
+			"isset(",
+			"user",
+			"'days', ",
+			"radio",
+			"per",
+			"<br>",
+			"-->\n",
+			"css",
+			"input",
+			"nickname",
+			"date"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "sunshine.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"usercontr",
+				"app/controllers/UserController.php"
+			],
+			[
+				"user",
+				"app/models/User.php"
+			],
+			[
+				"stori",
+				"app/controllers/StoriesController.php"
+			],
+			[
+				"sto",
+				"app/views/stories.blade.php"
+			],
+			[
+				"writecontro",
+				"app/controllers/WriteController.php"
+			],
+			[
+				"route",
+				"app/routes.php"
+			],
+			[
+				"global",
+				"app/start/global.php"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"thing",
+				"app/models/Thing.php"
+			],
+			[
+				"stor",
+				"app/views/stories.blade.php"
+			],
+			[
+				"story",
+				"app/models/Story.php"
+			],
+			[
+				"master",
+				"app/views/layouts/master.blade.php"
+			],
+			[
+				"setting",
+				"app/views/user/settings.blade.php"
+			],
+			[
+				"profil",
+				"app/views/user/profile.blade.php"
+			],
+			[
+				"stories",
+				"app/controllers/StoriesController.php"
+			],
+			[
+				"auth",
+				"app/config/auth.php"
+			],
+			[
+				"mast",
+				"app/views/layouts/masthead.blade.php"
+			],
+			[
+				"scri",
+				"public/assets/js/script.js"
+			],
+			[
+				"login",
+				"app/views/login.blade.php"
+			],
+			[
+				"validat",
+				"app/lang/en/validation.php"
+			],
+			[
+				"create",
+				"app/views/user/create.blade.php"
+			],
+			[
+				"people",
+				"app/controllers/PeopleController.php"
+			],
+			[
+				"perso",
+				"app/views/persons.blade.php"
+			],
+			[
+				"person",
+				"app/models/Person.php"
+			],
+			[
+				"sorta",
+				"app/views/layouts/sortable.blade.php"
+			],
+			[
+				"datepic",
+				"public/assets/js/bootstrap-datepicker.js"
+			],
+			[
+				"head",
+				"app/views/layouts/head.blade.php"
+			],
+			[
+				"masthead",
+				"app/views/layouts/masthead.blade.php"
+			],
+			[
+				"usercon",
+				"app/controllers/UserController.php"
+			],
+			[
+				"home",
+				"app/views/home.blade.php"
+			],
+			[
+				"sess",
+				"app/controllers/SessionsController.php"
+			],
+			[
+				"homecon",
+				"app/controllers/HomeController.php"
+			],
+			[
+				"start",
+				"vendor/laravel/framework/src/Illuminate/Foundation/start.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
