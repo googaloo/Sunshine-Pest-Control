@@ -51,6 +51,10 @@ define('SECURE_AUTH_SALT', 'put your unique phrase here');
 define('LOGGED_IN_SALT',   'put your unique phrase here');
 define('NONCE_SALT',       'put your unique phrase here');
 
+// define( 'FTP_USER', 'username' );
+// define( 'FTP_PASS', 'password' );
+// define( 'FTP_HOST', 'localhost' );
+
 /**#@-*/
 
 /**

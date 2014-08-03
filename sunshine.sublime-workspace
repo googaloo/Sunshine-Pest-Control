@@ -31,6 +31,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "wp-content/themes/3clicks/template-parts/g1_entry_full.php",
+			"settings":
+			{
+				"buffer_size": 2656,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -72,6 +80,36 @@
 	},
 	"file_history":
 	[
+		"/etc/apache2/sites-available/000-default.conf",
+		"/var/www/html/sunshine/wp-includes/rewrite.php",
+		"/var/www/html/sunshine/wp-content/themes/3clicks/plugins/.htaccess",
+		"/var/www/html/sunshine/.htaccess",
+		"/var/www/html/sunshine/wp-content/themes/3clicks/template-parts/g1_primary_collection.php",
+		"/var/www/html/sunshine/wp-content/themes/3clicks/archive.php",
+		"/var/www/html/sunshine/wp-content/themes/3clicks/g1_template_archive_1col_sidebar_right.php",
+		"/etc/apache2/sites-enabled/000-default.conf",
+		"/etc/apache2/apache.conf",
+		"/etc/apache2/httpd.conf",
+		"/etc/apache2/sites-available/default-ssl.conf",
+		"/var/www/html/sunshine/wp-content/plugins/revslider/languages/revslider-en_GB.mo",
+		"/var/www/html/sunshine/readme.html",
+		"/var/www/html/sunshine/wp-includes/http.php",
+		"/var/www/html/sunshine/wp-content/plugins/akismet/.htaccess",
+		"/var/www/html/sunshine/wp-content/themes/twentyfourteen/inc/template-tags.php",
+		"/var/www/html/sunshine/wp-content/themes/3clicks/attachment.php",
+		"/var/www/html/sunshine/wp-content/themes/3clicks/sidebar.php",
+		"/var/www/html/sunshine/wp-content/themes/3clicks/g1_template_archive_1col.php",
+		"/var/www/html/sunshine/wp-content/themes/3clicks/page.php",
+		"/var/www/html/sunshine/wp-content/themes/3clicks/single.php",
+		"/var/www/html/sunshine/wp-content/themes/3clicks/header.php",
+		"/var/www/html/sunshine/wp-content/themes/3clicks/index.php",
+		"/var/www/html/sunshine/wp-content/themes/3clicks/g1_template_page_full.php",
+		"/var/www/html/sunshine/wp-content/themes/3clicks-child-theme/style.css",
+		"/var/www/html/sunshine/wp-content/themes/3clicks-child-theme/index.php",
+		"/var/www/html/sunshine/wp-config.php",
+		"/var/www/html/sunshine/wp-content/themes/3clicks-child-theme/functions.php",
+		"/var/www/html/sunshine/.gitignore",
+		"/var/www/html/sunshine/wp-includes/class-oembed.php",
 		"/var/www/Storybook/app/controllers/UserController.php",
 		"/var/www/Storybook/app/models/User.php",
 		"/var/www/Storybook/app/views/stories/story-things.blade.php",
@@ -169,39 +207,11 @@
 		"/var/www/Storybook/vendor/predis/predis/lib/Predis/Command/HashExists.php",
 		"/var/www/Storybook/app/views/home.blade.php",
 		"/var/www/Storybook/node_modules/grunt-contrib-jshint/node_modules/.bin/jshint",
-		"/var/www/Storybook/vendor/nikic/php-parser/lib/PHPParser/Node/Expr/LogicalOr.php",
-		"/var/www/Storybook/app/controllers/HomeController.php",
-		"/var/www/Storybook/bootstrap/start.php",
-		"/var/www/Storybook/phpunit.xml",
-		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php",
-		"/var/www/Storybook/vendor/predis/predis/lib/Predis/Protocol/ProtocolInterface.php",
-		"/var/www/Storybook/app/views/users-create.blade.php",
-		"/var/www/Storybook/app/views/user-create.blade.php",
-		"/var/www/Storybook/app/controllers/UsersController.php",
-		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Cache/StoreInterface.php",
-		"/var/www/Storybook/vendor/predis/predis/tests/Predis/Command/ServerTimeTest.php",
-		"/var/www/Storybook/vendor/predis/predis/lib/Predis/Command/StringBitOp.php",
-		"/var/www/Storybook/vendor/swiftmailer/swiftmailer/tests/StreamCollector.php",
-		"/var/www/Storybook/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/MockArraySessionStorage.php",
-		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Database/Eloquent/MassAssignmentException.php",
-		"/var/www/Storybook/app/config/mail.php",
-		"/var/www/Storybook/app/config/testing/session.php",
-		"/var/www/Storybook/app/config/session.php",
-		"/var/www/Storybook/vendor/predis/predis/lib/Predis/Command/ServerEvalSHA.php",
-		"/var/www/Storybook/vendor/predis/predis/lib/Predis/ServerException.php",
-		"/var/www/Storybook/server.php",
-		"/var/www/Storybook/vendor/nikic/php-parser/test/code/parser/stmt/haltCompilerInvalidSyntax.test-fail",
-		"/var/www/Storybook/vendor/nikic/php-parser/test/code/parser/expr/issetAndEmpty.test",
-		"/var/www/Storybook/app/views/hello.php",
-		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Foundation/start.php",
-		"/var/www/info.php",
-		"/etc/apache2/apache2.conf",
-		"/var/www/Storybook/vendor/laravel/framework/src/Illuminate/Console/start.php",
-		"/etc/php5/apache2/php.ini"
+		"/var/www/Storybook/vendor/nikic/php-parser/lib/PHPParser/Node/Expr/LogicalOr.php"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -215,6 +225,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"allow",
+			"sidebar",
+			"menu",
 			"new_story",
 			"this",
 			"new",
@@ -275,8 +288,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "wp-content/themes/3clicks/template-parts/g1_entry_full.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -326,6 +370,22 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"rewr",
+				"wp-includes/rewrite.php"
+			],
+			[
+				"htac",
+				"wp-content/themes/3clicks/plugins/.htaccess"
+			],
+			[
+				"htacc",
+				".htaccess"
+			],
+			[
+				"config",
+				"wp-config.php"
+			],
 			[
 				"usercontr",
 				"app/controllers/UserController.php"
@@ -488,7 +548,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 252.0,
+	"side_bar_width": 387.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
